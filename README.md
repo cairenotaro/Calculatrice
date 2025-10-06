@@ -43,7 +43,7 @@ https://cairenotaro.github.io/Calculatrice/
 ## 📬 Contatti
 
 Sviluppato da **Cairê Notaro**  
-📍 Pianiga, Veneto, Italia  
+📍 Villorba, Veneto, Italia  
 📧 Email: cairesamuel@hotmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/caire-notaro)  
 🔗 [GitHub](https://github.com/caire-notaro)
